@@ -10,12 +10,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "qrcode": "^1.5.4",
-    "qrcode.react": "^3.1.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-qr-code": "^2.0.15",
-    "vcard": "^0.1.0",
     "vcards-js": "^2.10.0"
   },
   "devDependencies": {
